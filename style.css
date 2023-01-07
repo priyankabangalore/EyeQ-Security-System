@@ -1,0 +1,215 @@
+.pageContainer {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #FA8BFF;
+    background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+}
+
+.titleContainer {
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Monaco', monospace;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-weight: 900;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    font-family: 'Monaco', monospace;
+    padding: 50px 50px 0px 50px;
+}
+
+.logContainer {
+    text-align: center;
+    padding-left: 50px;
+}
+
+.logTable {
+    background-color: #e1ecf4;
+    color: #39739d;
+    border-radius: 4px;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    height: 100px;
+    overflow: scroll;
+}
+
+.tableContainer {
+    height: 250px;
+    overflow: scroll;
+    border: 4px;
+}
+
+.logTitle{
+    font-weight: 900;
+}
+
+.elem {
+    padding: 10px 30px;
+}
+
+.headElem {
+    padding: 10px 30px;
+    background-color: #b5cfe3;
+    border-radius: 4px;
+}
+
+.weatherTitle {
+    text-align: center;
+    font-family: 'Monaco', monospace;
+    font-weight: 900;
+}
+
+.btn-info {
+    font-family: 'Monaco', monospace;
+    cursor: pointer;
+    display: inline-block;
+
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.15385;
+    margin: auto;
+    outline: none;
+    padding: 8px .8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.weatherContainer {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Monaco', monospace;
+    width: 50vw;
+}
+
+.checkButtons {
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.userListContainer {
+    font-size: 20pt;
+    margin-left: 50px;
+    justify-content: center;
+    text-align: center;
+}
+
+.selectMenu {
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Monaco', monospace;
+
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    line-height: 1.15385;
+    margin: 0;
+    outline: none;
+    padding: 8px .8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.userListTitle {
+    font-weight: 900;
+    text-align: left;
+    font-size: 15px;
+
+}
+
+.videoLinkContainer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.weatherLogTable {
+    background-color: #e1ecf4;
+    color: #39739d;
+    border-radius: 4px;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    text-align: center;
+    width: 50vw;
+}
+
+.Welem {
+    padding: 10px 30px;
+    text-align: center;
+}
+
+.WheadElem {
+    padding: 10px 30px;
+    background-color: #b5cfe3;
+    border-radius: 4px;
+}
+
+.weatherLogContainer {
+    justify-content: center;
+    align-items: center;
+}
+
+.weatherButton {
+    justify-content: center;
+    align-items: center;
+    font-family: 'Monaco', monospace;
+    cursor: pointer;
+    display: inline-block;
+
+    background-color: #e1ecf4;
+    border-radius: 3px;
+    border: 1px solid #7aa7c7;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #39739d;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.15385;
+    margin: auto;
+    outline: none;
+    padding: 8px .8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.image {
+    padding-top: 70px;
+    width: 150px;
+    height: 150px;
+    padding-left: 50px;
+}
