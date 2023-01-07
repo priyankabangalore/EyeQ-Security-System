@@ -9,7 +9,7 @@
 - Wenjun Shi (wshi84)
 
 ### Description
-Our CS3307 final project is a security system hosted on a website. The site allows group 3 members to view live footage from a camera connected to a Rasberry Pi, check in/check out of the recorded area, display and update the user log with users' check-in/check-out timestamps and status, and display the local weather information that is read by a temperature and humidity sensor connected to a Raspberry Pi.
+Our CS3307 final project is a security system hosted on a website. The site allows group 3 members to view live footage from a camera connected to a Raspberry Pi, check in/check out of the recorded area, display and update the user log with users' check-in/check-out timestamps and status, and display the local weather information that is read by a temperature and humidity sensor connected to a Raspberry Pi.
 
 ### Using the Application
 
